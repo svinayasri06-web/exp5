@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is info in remote repository
+=======
+This is info in local repo
+>>>>>>> 88f200c (Initial commit)
